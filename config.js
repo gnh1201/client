@@ -6,7 +6,8 @@
     // Object values are used as project name in the app
     // Don't forget to add the API environment!
     api: {
-      "https://2s.re.kr/_/": "Catswords Data API"
+      "https://2s.re.kr/_/": "Catswords Data API",
+      "https://utilhome.000webhostapp.com/api/public/_/": "Test API 1"
     },
 
     // Allow the user to connect to any API by entering a URL in a text field
